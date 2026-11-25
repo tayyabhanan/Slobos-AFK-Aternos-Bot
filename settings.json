@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Wemmbu",
   "bot-account": {
-    "username": "unstable",
+    "username": "ApexSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "unstableSmoke.aternos.me",
-    "port": 11535,
+    "ip": "ApexSMPNetwork.aternos.me",
+    "port": 47088,
     "version": "",
     "try-creative": false
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm Wemmbu the best player in all minecraft",
+        "join ApexSMP discord!",
         "I like to play Minecraft!"
       ]
     },
